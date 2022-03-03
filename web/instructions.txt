@@ -1,0 +1,9 @@
+I need you to build a simple video uploading webpage to upload a video to 3 sites - Bitchute.com , Rumble.com and Odysee.com by one-click, at the same time.
+Required fields are Title, Description, Thumbnail photo file upload button, Video file upload button and Submit button.
+This is a web app used by me personally.
+The sites mostly don't support their Rest API, so recommend you to use an automation library or something else.
+Make sure the bot remembers the TITLE AND DESCRIPTION and saves the last entry. So when i open bot again or if i want to re upload same video, it will be populated in the fields before i start
+
+Make sure on the upload page on bottom there are 3 check boxes. 1 check box is Bitchute - 2nd check box is Rumble and 3rd check box is Odysee.
+
+No user dashboard, No professional design, No additional requirements.
